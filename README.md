@@ -7,11 +7,11 @@
 
 <p align="center">
   
-  <a href="https://github.com/SilverBlitzy">
-    <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=SilverBlitzy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/LanaArmond">
+    <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=LanaArmond&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/SilverBlitzy">
-    <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverBlitzy&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/LanaArmond">
+    <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaArmond&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
   
 </p>  
@@ -20,8 +20,8 @@
 
 <p align="center">
 
-  <a alt="trophy" href="https://github.com/SilverBlitzy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=SilverBlitzy&theme=tokyonight"/>
+  <a alt="trophy" href="https://github.com/LanaArmond">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=LanaArmond&theme=tokyonight"/>
   </a>
   
 </p>
@@ -30,11 +30,11 @@
 
 <p align="center">
       
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SilverBlitzy&theme=tokyonight" alt="SilverBlitzy" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LanaArmond&theme=tokyonight" alt="LanaArmond" />
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=SilverBlitzy&label=Profile%20views&color=dd6387&style=flat" alt="SilverBlitzy" />
+  <img src="https://komarev.com/ghpvc/?username=LanaArmond&label=Profile%20views&color=dd6387&style=flat" alt="LanaArmond" />
   
 </p>
   
@@ -43,27 +43,27 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/lana-armond/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SilverBlitzy_LinkedIn" />
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LanaArmond_LinkedIn" />
   </a>
 
   <a href="mailto:anabialana@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="SilverBlitzy_Gmail" />
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LanaArmond_Gmail" />
   </a>
   
-  <a href="https://t.me/SilverBlitzy" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="SilverBlitzy_Telegram" />
+  <a href="https://t.me/LanaArmond" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LanaArmond_Telegram" />
   </a>
   
   <a href="https://www.instagram.com/lana_dosrei/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="SilverBlitzy_Instagram" />
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LanaArmond_Instagram" />
   </a>
   
   <a href="https://www.facebook.com/Tia.Lana.Quinzel" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="SilverBlitzy_Facebook" />
+  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="LanaArmond_Facebook" />
   </a>
   
   <a href="discordapp.com/users/535828480592707595" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="SilverBlitzy_Discord" />
+  <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="LanaArmond_Discord" />
   </a>
   
 </div>
